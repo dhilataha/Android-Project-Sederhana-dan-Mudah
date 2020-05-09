@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tugas Mobile Bab6</string>
+    <string-array name ="list_agama">
+        <item> Islam </item>
+        <item> Kristen </item>
+        <item> Hindu </item>
+        <item> Budha </item>
+        <item> Konghucu </item>
+    </string-array>
+</resources>
